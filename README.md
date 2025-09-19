@@ -10,7 +10,7 @@ Correspondence: felipeiag2012@gmail.com.br
 The Sleipner CO₂ storage project in the North Sea has become a global reference for carbon capture, utilization, and storage (CCUS), offering an unparalleled dataset for testing geophysical methodologies. In this study, we assess the capacity of ten publicly available three-dimensional flow models from the British Geological Survey (BGS) to replicate observed four-dimensional seismic responses at the Sleipner East site. Real 4D seismic data provided by Equinor were compared against synthetic responses generated via petroelastic modeling and one-dimensional convolutional forward modeling of the simulation outputs. To address gaps in model documentation, we implemented a robust workflow that integrates literature-derived rock physics parameters with targeted calibration of petroelastic models. Model performance was quantified using the Structural Normalized Cross Correlation (NCC) and Root Mean Square Error (RMSE) metrics applied to attribute maps across three discrete reservoir intervals. Although none of the evaluated models capture every feature of the field data—reflecting their simplified geological frameworks—several closely reproduce the CO₂ plume morphology and signal polarity in specific regions. Moreover, this work provides a reproducible protocol for constructing petroelastic models and conducting seismic forward modeling using publicly accessible datasets for Sleipner.
 
 ## About
-Repository containing synthetic data generated for the Sleipner case study.   
+Repository containing a link to the synthetic data generated for the Sleipner case study.   
 
 ## Index
 
@@ -22,19 +22,7 @@ Repository containing synthetic data generated for the Sleipner case study.
 
 ## Repository Contents   
 
-This repository contains files in SGE-Y.
-
-## Folder Structure
-
-The organization of this repository follows the structure below:
-
-```plaintext
-Geophysical_Prospecting_Sleipner_Case_Study/
-├── README.md                    # This file
-├── LICENSE.md                   # License file
-├── Data/ (synthetic data)
-```
-
+This repository contains a link to files in SGE-Y. The files are stored in a public folder at https://drive.google.com/drive/folders/1aMspoNRo3P7fWS0vq47l9azuBc2lfu0U?usp=sharing
 
 ## Technical Specifications
 
