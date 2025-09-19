@@ -15,7 +15,6 @@ Repository containing a link to the synthetic data generated for the Sleipner ca
 ## Index
 
 - [Repository Contents](#repository-contents)
-- [Folder Structure](#folder-structure)
 - [Technical Specifications](#technical-specifications)
 - [Instructions for Use](#instructions-for-use)
 - [License](#license)
