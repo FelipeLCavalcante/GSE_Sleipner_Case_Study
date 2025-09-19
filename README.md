@@ -21,7 +21,7 @@ Repository containing a link to the synthetic data generated for the Sleipner ca
 
 ## Repository Contents   
 
-This repository contains a link to files in SGE-Y. The files are stored in a public folder at https://drive.google.com/drive/folders/1aMspoNRo3P7fWS0vq47l9azuBc2lfu0U?usp=sharing
+This repository contains a link to files in SEG-Y. The files are stored in a public folder at https://drive.google.com/drive/folders/1aMspoNRo3P7fWS0vq47l9azuBc2lfu0U?usp=sharing
 
 ## Technical Specifications
 
