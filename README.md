@@ -3,6 +3,7 @@
 **Autores:** Felipe L. Cavalcante<sup>1</sup>, Daiane Rossi Rosa Lessa<sup>1</sup>, Leonildes Soares de Melo Filho<sup>2</sup>, Denis José Schiozer<sup>1</sup>, Alessandra Davolio Gomes<sup>1</sup>       
 
 <sup>1</sup> Center for Energy and Petroleum Studies, University of Campinas, Cora Coralina Street, 350, Campinas, SP, Brazil
+
 <sup>2</sup> Repsol Sinopec Brasil - Praia de Botafogo, 300 – ZIP Code 22250-040, Rio de Janeiro, RJ – Brazil
 
 Correspondence: felipeiag2012@gmail.com.br  
