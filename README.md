@@ -36,4 +36,4 @@ Download the data and open the files in Schlumberger's Petrel software or anothe
 ## License
 All source code is made available under an MIT license. You can freely use and modify the code, without warranty, so long as you provide attribution to the authors. See 'LICENSE.md' for the full license text.
 
-The manuscript text is not open source. The authors reserve the right to the article content, which is currently submitted for publication in the Geophysical Prospecting journal.
+The manuscript text is not open source. The authors reserve the right to the article content, which is currently submitted for publication in the Geoenergy Science and Engineering.
